@@ -27,8 +27,9 @@ Furthermore, the Offline Bible Reader, update more frequently than the Bible Dat
 
 **NOTE: ONLY FOR PERSONAL USAGE.**
 
-1. Download the `<version>.zip` from <http://github.com/liudongmiao/bibledata>
-1. Uncompress the zip file, and put the sqlite3 file to `<SDCARD>/.piebridge/` directory.
+* Download the `bibledata-<language>-<version>.zip` from <http://github.com/liudongmiao/bibledata>.
+* (New Way) Put the `bibledata-<language>-<version>.zip` into `<SDCARD>` directory or `<SDCARD>/Download` (android browser's default download directory).
+* (Old Way) Uncompress the `bibledata-<language>-<version>.zip`, and put the sqlite3 file `<version>.sqlite3` to `<SDCARD>/.piebridge/` directory.
 
 ## Request Other Version
 
@@ -58,8 +59,9 @@ Create an issue from <https://github.com/liudongmiao/bibledata/issues/new>, offe
 
 **注意：仅供个人使用。**
 
-1. 请从<http://github.com/liudongmiao/bibledata>下载`<版本>.zip`。
-1. 解压`<版本>.zip`，把sqlite3文件放入`<SDCARD>/.piebridge/`目录。
+* 请从<http://github.com/liudongmiao/bibledata>下载`bibledata-<语言>-<版本>.zip`。
+* (新方法) 把`bibledata-<语言>-<版本>.zip`放入`<SDCARD>`根目录或者`<SDCARD>/Download`(浏览器下载默认目录)。
+* (老方法) 解压`bibledata-<语言>-<版本>.zip`，把sqlite3文件`<版本>.sqlite3`放入`<SDCARD>/.piebridge/`目录。
 
 ## 需要其它版本
 
