@@ -13,7 +13,7 @@
 
 ## Install Offline Bible Reader
 
-Please Get Offline Bible Reader from Google Play Store <https://play.google.com/store/apps/details?id=me.piebridge.bible>, or <https://github.com/liudongmiao/bible/releases>.
+Please get Offline Bible Reader from Google Play Store <https://play.google.com/store/apps/details?id=me.piebridge.bible>, or <https://github.com/liudongmiao/bible/releases>.
 
 ## What's "Bible Data"
 
