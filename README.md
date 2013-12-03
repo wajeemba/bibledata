@@ -1,4 +1,12 @@
-{% include toc.html %}
+
+* [English](#english)
+  * [Install Offline Bible Reader](#install-offline-bible-reader)
+  * [Install "Bible Data" Manually](#install-bible-data-manually)
+  * [Request Other Version](#request-other-version)
+* [中文](#中文)
+  * [安装离线圣经阅读器](#安装离线圣经阅读器)
+  * [手动安装圣经数据](#手动安装圣经数据)
+  * [需要其它版本](#需要其它版本)
 
 # English
 
