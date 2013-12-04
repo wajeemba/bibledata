@@ -17,7 +17,7 @@ Please get Offline Bible Reader from Google Play Store <https://play.google.com/
 
 ## What's "Bible Data"
 
-As there is little bible version are in public domain, so I seperate the Offline Bible Reader and the Bible Data.
+As there are little bible versions in public domain, so I seperate the Offline Bible Reader and the Bible Data.
 
 The Offline Bible Reader, is distributed in free license, you can get the source code from <http://github.com/liudongmiao/bible>. However, I have no right to distribute any bible version not in public domain.
 
